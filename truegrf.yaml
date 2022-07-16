@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f11ad9db
 license: GPL-2.0
+name: henk
 type: industry
+url: https://github.com/sjakiestan/henk
 version: 6
